@@ -1,2 +1,2 @@
-node_module/
-.envgit init
+node_modules/
+.env
